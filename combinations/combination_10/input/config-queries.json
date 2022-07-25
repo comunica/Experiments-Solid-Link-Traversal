@@ -1,0 +1,137 @@
+{
+  "@context": "https://linkedsoftwaredependencies.org/bundles/npm/sparql-query-parameter-instantiator/^2.0.0/components/context.jsonld",
+  "@id": "urn:sparql-query-parameter-instantiator:default",
+  "@type": "QueryInstantiator",
+  "count": 5,
+  "providers": [
+    {
+      "@type": "QueryTemplateProvider",
+      "templateFilePath": {
+        "@id": "urn:variables:query-templates:interactive-short-1.sparql",
+        "@type": "Variable"
+      },
+      "destinationFilePath": "out-queries/interactive-short-1.sparql",
+      "variables": [
+        {
+          "@type": "VariableTemplateNamedNode",
+          "name": "person",
+          "substitutionProvider": {
+            "@id": "urn:sparql-query-parameter-instantiator:substitutionProviderPerson",
+            "@type": "SubstitutionProviderCsv",
+            "csvFilePath": "out-fragments/parameters-persons.csv",
+            "columnName": "subject"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "QueryTemplateProvider",
+      "templateFilePath": {
+        "@id": "urn:variables:query-templates:interactive-short-2.sparql",
+        "@type": "Variable"
+      },
+      "destinationFilePath": "out-queries/interactive-short-2.sparql",
+      "variables": [
+        {
+          "@type": "VariableTemplateNamedNode",
+          "name": "person",
+          "substitutionProvider": { "@id": "urn:sparql-query-parameter-instantiator:substitutionProviderPerson" }
+        }
+      ]
+    },
+    {
+      "@type": "QueryTemplateProvider",
+      "templateFilePath": {
+        "@id": "urn:variables:query-templates:interactive-short-3.sparql",
+        "@type": "Variable"
+      },
+      "destinationFilePath": "out-queries/interactive-short-3.sparql",
+      "variables": [
+        {
+          "@type": "VariableTemplateNamedNode",
+          "name": "rootPerson",
+          "substitutionProvider": { "@id": "urn:sparql-query-parameter-instantiator:substitutionProviderPerson" }
+        }
+      ]
+    },
+    {
+      "@type": "QueryTemplateProvider",
+      "templateFilePath": {
+        "@id": "urn:variables:query-templates:interactive-short-4.sparql",
+        "@type": "Variable"
+      },
+      "destinationFilePath": "out-queries/interactive-short-4.sparql",
+      "variables": [
+        {
+          "@type": "VariableTemplateNamedNode",
+          "name": "message",
+          "substitutionProvider": {
+            "@id": "urn:sparql-query-parameter-instantiator:substitutionProviderMessage",
+            "@type": "SubstitutionProviderShuffle",
+            "seed": 12345,
+            "substitutionProvider": {
+              "@type": "SubstitutionProviderUnion",
+              "substitutionProviders": [
+                {
+                  "@type": "SubstitutionProviderCsv",
+                  "csvFilePath": "out-fragments/parameters-comments.csv",
+                  "columnName": "subject"
+                },
+                {
+                  "@type": "SubstitutionProviderCsv",
+                  "csvFilePath": "out-fragments/parameters-posts.csv",
+                  "columnName": "subject"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@type": "QueryTemplateProvider",
+      "templateFilePath": {
+        "@id": "urn:variables:query-templates:interactive-short-5.sparql",
+        "@type": "Variable"
+      },
+      "destinationFilePath": "out-queries/interactive-short-5.sparql",
+      "variables": [
+        {
+          "@type": "VariableTemplateNamedNode",
+          "name": "message",
+          "substitutionProvider": { "@id": "urn:sparql-query-parameter-instantiator:substitutionProviderMessage" }
+        }
+      ]
+    },
+    {
+      "@type": "QueryTemplateProvider",
+      "templateFilePath": {
+        "@id": "urn:variables:query-templates:interactive-short-6.sparql",
+        "@type": "Variable"
+      },
+      "destinationFilePath": "out-queries/interactive-short-6.sparql",
+      "variables": [
+        {
+          "@type": "VariableTemplateNamedNode",
+          "name": "message",
+          "substitutionProvider": { "@id": "urn:sparql-query-parameter-instantiator:substitutionProviderMessage" }
+        }
+      ]
+    },
+    {
+      "@type": "QueryTemplateProvider",
+      "templateFilePath": {
+        "@id": "urn:variables:query-templates:interactive-short-7.sparql",
+        "@type": "Variable"
+      },
+      "destinationFilePath": "out-queries/interactive-short-7.sparql",
+      "variables": [
+        {
+          "@type": "VariableTemplateNamedNode",
+          "name": "message",
+          "substitutionProvider": { "@id": "urn:sparql-query-parameter-instantiator:substitutionProviderMessage" }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "solid-link-traversal",
+  "dependencies": {
+    "@jbr-experiment/solidbench": "^2.0.1",
+    "@jbr-hook/sparql-endpoint-comunica": "^2.0.1",
+    "jbr": "^2.0.0"
+  },
+  "scripts": {
+    "jbr": "jbr",
+    "validate": "jbr validate"
+  }
+}

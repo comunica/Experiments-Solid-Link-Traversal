@@ -24,8 +24,8 @@
     "@type": "StaticDockerResourceConstraints",
     "cpu_percentage": 100
   },
-  "queryRunnerReplication": 1,
-  "queryRunnerWarmupRounds": 0,
+  "queryRunnerReplication": 3,
+  "queryRunnerWarmupRounds": 1,
   "queryRunnerRecordTimestamps": true,
   "queryRunnerUpQuery": "SELECT * WHERE { <http://solidbench-server:3000/pods/00000000000000000933/profile/card#me> a ?o } LIMIT 1",
   "queryRunnerUrlParamsInit": {},
@@ -42,7 +42,7 @@
     "contextClient": "input/context-client.json",
     "clientPort": 3001,
     "clientLogLevel": "info",
-    "queryTimeout": 60,
+    "queryTimeout": 300,
     "maxMemory": 8192
   }
 }

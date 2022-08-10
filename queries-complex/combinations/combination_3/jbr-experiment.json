@@ -43,7 +43,7 @@
     "contextClient": "input/context-client.json",
     "clientPort": 3001,
     "clientLogLevel": "info",
-    "queryTimeout": 300,
+    "queryTimeout": 120,
     "maxMemory": 8192
   }
 }

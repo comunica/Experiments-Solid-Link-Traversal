@@ -15,7 +15,12 @@
           {
             "@type": "VariableTemplateNamedNode",
             "name": "person",
-            "substitutionProvider": { "@id": "urn:sparql-query-parameter-instantiator:substitutionProviderPerson" }
+            "substitutionProvider": {
+              "@id": "urn:sparql-query-parameter-instantiator:substitutionProviderPerson",
+              "@type": "SubstitutionProviderCsv",
+              "csvFilePath": "out-fragments/parameters-persons.csv",
+              "columnName": "subject"
+            }
           }
         ]
       },

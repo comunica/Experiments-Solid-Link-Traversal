@@ -1,4 +1,8 @@
 #!/bin/bash
+pushd index-vs-storage
+./run.sh
+popd
+
 pushd queries-short
 ./run.sh
 popd

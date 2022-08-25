@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "https://linkedsoftwaredependencies.org/bundles/npm/jbr/^2.0.0/components/context.jsonld"
+  ],
+  "@id": "urn:jbr:solid-link-traversal-combinations",
+  "@type": "FullFactorialCombinationProvider",
+  "commonGenerated": true,
+  "factors": {
+    "reachability": [ "cmatch" ],
+    "structure": [ "ldp", "idx", "idx-filt", "ldp-idx", "ldp-idx-filt" ]
+  }
+}

@@ -24,7 +24,7 @@
     "@type": "StaticDockerResourceConstraints",
     "cpu_percentage": 100
   },
-  "queryRunnerReplication": 3,
+  "queryRunnerReplication": 1,
   "queryRunnerWarmupRounds": 1,
   "queryRunnerRecordTimestamps": true,
   "queryRunnerRecordHttpRequests": true,

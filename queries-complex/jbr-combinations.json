@@ -7,6 +7,6 @@
   "commonGenerated": true,
   "factors": {
     "reachability": [ "cnone", "cmatch", "call" ],
-    "structure": [ "none", "ldp", "ldp-idx", "ldp-idx-filt" ]
+    "structure": [ "none", "idx", "idx-filt", "ldp", "ldp-idx", "ldp-idx-filt" ]
   }
 }

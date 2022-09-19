@@ -39,7 +39,7 @@
       "@type": "StaticDockerResourceConstraints",
       "cpu_percentage": 100
     },
-    "configClient": "input/config-client/cnone-ldp-idx.json",
+    "configClient": "input/config-client/cnone-idx-filt.json",
     "contextClient": "input/context-client.json",
     "clientPort": 3001,
     "clientLogLevel": "info",

@@ -39,7 +39,7 @@
       "@type": "StaticDockerResourceConstraints",
       "cpu_percentage": 100
     },
-    "configClient": "input/config-client/call-ldp-idx-filt.json",
+    "configClient": "input/config-client/call-ldp.json",
     "contextClient": "input/context-client.json",
     "clientPort": 3001,
     "clientLogLevel": "info",

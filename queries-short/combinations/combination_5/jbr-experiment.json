@@ -24,7 +24,7 @@
     "@type": "StaticDockerResourceConstraints",
     "cpu_percentage": 100
   },
-  "queryRunnerReplication": 3,
+  "queryRunnerReplication": 1,
   "queryRunnerWarmupRounds": 1,
   "queryRunnerRecordTimestamps": true,
   "queryRunnerRecordHttpRequests": true,
@@ -39,7 +39,7 @@
       "@type": "StaticDockerResourceConstraints",
       "cpu_percentage": 100
     },
-    "configClient": "input/config-client/call-ldp.json",
+    "configClient": "input/config-client/call-idx.json",
     "contextClient": "input/context-client.json",
     "clientPort": 3001,
     "clientLogLevel": "info",

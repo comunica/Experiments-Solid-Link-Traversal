@@ -6,20 +6,26 @@ import N3 from "n3";
 import * as fs from "fs/promises";
 import * as Path from "path";
 
-const OMIT_QUERIES = [6, 7];
+const OMIT_QUERIES = {
+    6: [0, 3],
+    7: [0, 3],
+};
 
 (async function run(){
-    console.log(`| Query | Traversal-based | Index-based | Dereferencing | HTTP Requests |`);
+    console.log(`| Query | Integrated | Two-phase | Dereferencing | HTTP Requests |`);
     console.log(`| --- | --: | --: | --: | --: |`);
 
     let queryId = 0;
     for (const queryFile of await fs.readdir('queries')) {
         queryId++;
-        const queries = (await fs.readFile(Path.join('queries', queryFile), 'utf-8')).split('\n\n');
 
-        // Check if we should execute this query
-        if (OMIT_QUERIES.includes(queryId)) {
-            continue;
+        let queries = (await fs.readFile(Path.join('queries', queryFile), 'utf-8')).split('\n\n');
+
+        // Check if we should omit queries
+        if (OMIT_QUERIES[queryId]) {
+            for (const removeId of OMIT_QUERIES[queryId].reverse()) {
+                queries.splice(removeId, 1);
+            }
         }
 
         let timeLinkTraversalTotal = 0;

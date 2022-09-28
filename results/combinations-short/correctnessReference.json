@@ -1,0 +1,12 @@
+{
+    "type": "queries",
+    "queries": {
+        "interactive-short-1": 1,
+        "interactive-short-2": 10,
+        "interactive-short-3": 1,
+        "interactive-short-4": 1,
+        "interactive-short-5": 1,
+        "interactive-short-6": 1,
+        "interactive-short-7": 1
+    }
+}

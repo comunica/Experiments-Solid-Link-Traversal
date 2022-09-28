@@ -1,0 +1,103 @@
+\documentclass[preview]{standalone}
+\usepackage[utf8]{inputenc}
+
+
+% Page setup
+\usepackage{amsmath}
+
+% Typography
+\usepackage[scaled]{helvet}
+\let\familydefault\sfdefault
+\usepackage{sansmath}
+\sansmath
+
+\usepackage[usenames,svgnames]{xcolor}
+\usepackage{tikz,pgfplots}
+\usetikzlibrary{arrows,positioning,shapes,calc,intersections,patterns}
+\usepgfplotslibrary{colorbrewer}
+
+\newcommand\plotfontsize{\fontsize{9}{9}\selectfont}
+\pgfplotsset{compat=1.9,
+  axis lines=left,
+  every axis/.append style={
+    font=\plotfontsize,
+  },
+  label style={
+    font=\plotfontsize\bfseries,
+  },
+  tick label style={
+    font=\plotfontsize\bfseries,
+  },
+  xtick style={
+    draw=none,
+  },
+  legend cell align=left,
+  legend style={
+    /tikz/every even column/.append style={column sep=.3em},
+    draw=none, fill=none,
+    inner sep=0pt, outer sep=0pt,
+    anchor=north east,
+    at={(1.5,0.9)},
+    text height=3pt,
+  },
+  log base 10 number format code/.code={%
+    $\pgfmathparse{10^(#1)}\pgfmathprintnumber{\pgfmathresult}$%
+  },
+  cycle list/Paired-12,
+}
+
+\begin{document}
+\pagestyle{empty}
+
+\newenvironment{resultAxis}{
+\begin{axis}[
+    xtick=data,
+    width=192pt,
+    height=96pt,
+    ymin=0.000001,ymode=log,log origin=infty,log basis y={10},
+    ymax=100,
+    bar width=2.75pt,
+    enlarge x limits={abs=10pt},
+    symbolic x coords={D1,D2,D3,D4,D5,D6,D7,D8},
+    % Don't show axis exponent
+    ytick scale label code/.code={},
+    scaled y ticks=false,
+    x axis line style={draw=none},
+    % reverse legend,
+    scale only axis,
+    clip=false,
+    axis on top,
+    area legend,
+    ylabel={Duration (s)},
+    cycle list name=Paired-12,
+    every axis plot/.append style={
+        draw=none,
+        fill,
+    },
+    error bars/error bar style={
+        black,
+        dashed,
+    },
+    error bars/error mark options={
+        line width=1pt,mark size=0.5pt,rotate=90
+    },
+    error bars/y dir=both,
+    error bars/y explicit,
+]
+}{\end{axis}}
+\begin{tikzpicture}
+\begin{resultAxis}
+\addplot+[ybar, xshift=-5.5pt,legend image post style={xshift=5.5pt}] table [x=query, y expr=(\thisrow{0-mean} / 1000)+1e-5, y error plus expr=(\thisrow{0-plus} / 1000)+1e-5, y error minus expr=(\thisrow{0-minus} / 1000)+1e-5, col sep=semicolon]{"queries_indexvsstorage_time.csv"};
+\addplot+[ybar, xshift=-2.75pt,legend image post style={xshift=2.75pt}] table [x=query, y expr=(\thisrow{1-mean} / 1000)+1e-5, y error plus expr=(\thisrow{1-plus} / 1000)+1e-5, y error minus expr=(\thisrow{1-minus} / 1000)+1e-5, col sep=semicolon]{"queries_indexvsstorage_time.csv"};
+\addplot+[ybar, xshift=0pt,legend image post style={xshift=0pt}] table [x=query, y expr=(\thisrow{2-mean} / 1000)+1e-5, y error plus expr=(\thisrow{2-plus} / 1000)+1e-5, y error minus expr=(\thisrow{2-minus} / 1000)+1e-5, col sep=semicolon]{"queries_indexvsstorage_time.csv"};
+\addplot+[ybar, xshift=2.75pt,legend image post style={xshift=-2.75pt}] table [x=query, y expr=(\thisrow{3-mean} / 1000)+1e-5, y error plus expr=(\thisrow{3-plus} / 1000)+1e-5, y error minus expr=(\thisrow{3-minus} / 1000)+1e-5, col sep=semicolon]{"queries_indexvsstorage_time.csv"};
+\addplot+[ybar, xshift=5.5pt,legend image post style={xshift=-5.5pt}] table [x=query, y expr=(\thisrow{4-mean} / 1000)+1e-5, y error plus expr=(\thisrow{4-plus} / 1000)+1e-5, y error minus expr=(\thisrow{4-minus} / 1000)+1e-5, col sep=semicolon]{"queries_indexvsstorage_time.csv"};
+\addplot+[only marks,xshift=-5.5pt,mark=star,mark options={color=gray,scale=0.5}] table [x=query, y expr=(\thisrow{0-first-mean} / 1000)+1e-5, col sep=semicolon]{"queries_indexvsstorage_time.csv"};
+\addplot+[only marks,xshift=-2.75pt,mark=star,mark options={color=gray,scale=0.5}] table [x=query, y expr=(\thisrow{1-first-mean} / 1000)+1e-5, col sep=semicolon]{"queries_indexvsstorage_time.csv"};
+\addplot+[only marks,xshift=0pt,mark=star,mark options={color=gray,scale=0.5}] table [x=query, y expr=(\thisrow{2-first-mean} / 1000)+1e-5, col sep=semicolon]{"queries_indexvsstorage_time.csv"};
+\addplot+[only marks,xshift=2.75pt,mark=star,mark options={color=gray,scale=0.5}] table [x=query, y expr=(\thisrow{3-first-mean} / 1000)+1e-5, col sep=semicolon]{"queries_indexvsstorage_time.csv"};
+\addplot+[only marks,xshift=5.5pt,mark=star,mark options={color=gray,scale=0.5}] table [x=query, y expr=(\thisrow{4-first-mean} / 1000)+1e-5, col sep=semicolon]{"queries_indexvsstorage_time.csv"};
+\legend{TypeIndex,TypeIndex-f,LDP+TypeIndex,LDP+TypeIndex-f,LDP}
+\end{resultAxis}
+\end{tikzpicture}
+\end{document}

@@ -1,0 +1,17 @@
+{
+    "type": "queries",
+    "queries": {
+        "interactive-complex-1": 20,
+        "interactive-complex-2": 20,
+        "interactive-complex-3": 20,
+        "interactive-complex-4": 10,
+        "interactive-complex-5": 20,
+        "interactive-complex-6": 10,
+        "interactive-complex-7": 20,
+        "interactive-complex-8": 20,
+        "interactive-complex-9": 20,
+        "interactive-complex-10": 10,
+        "interactive-complex-11": 10,
+        "interactive-complex-12": 20
+    }
+}

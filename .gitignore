@@ -6,3 +6,4 @@
 !/output/.keep
 /combinations/*/generated
 /combinations/*/output
+results/*/combination_*

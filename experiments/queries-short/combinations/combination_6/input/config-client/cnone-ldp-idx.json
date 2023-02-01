@@ -12,12 +12,13 @@
         "ccqslt:config/extract-links/actors/predicates-ldp.json",
         "ccqslt:config/extract-links/actors/predicates-solidstorage.json",
 
-        "ccqslt:config/extract-links/actors/solid-type-index.json"
+
       ]
     },
     {
       "@id": "urn:comunica:default:extract-links/actors#solid-type-index",
       "@type": "ActorExtractLinksSolidTypeIndex",
+      "inference": false,
       "onlyMatchingTypes": false
     }
   ]

@@ -1,4 +1,4 @@
-FROM comunica/query-sparql-link-traversal-solid:dev@sha256:616a1797cb18ae46aa5f10e00992cc42e6604787d51c91813d10ebbd6f5b4568
+FROM comunica/query-sparql-link-traversal-solid:dev@sha256:ca97b3c3d3b2471e6e10b8785d94206ed6e62dadab07502656fe9f0b002f6c5e
 
 ARG CONFIG_CLIENT
 ARG QUERY_TIMEOUT

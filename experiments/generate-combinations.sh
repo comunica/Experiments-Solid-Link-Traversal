@@ -14,3 +14,7 @@ popd
 pushd queries-complex
 npm run jbr -- generate-combinations
 popd
+
+pushd fragmentation
+npm run jbr -- generate-combinations
+popd

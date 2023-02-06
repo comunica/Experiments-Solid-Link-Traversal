@@ -1,0 +1,11 @@
+{
+  "@context": [
+    "https://linkedsoftwaredependencies.org/bundles/npm/jbr/^2.0.0/components/context.jsonld"
+  ],
+  "@id": "urn:jbr:fragmentation-combinations",
+  "@type": "FullFactorialCombinationProvider",
+  "commonGenerated": false,
+  "factors": {
+      "fragmenting": [ "composite", "separate", "single", "location", "time" ]
+  }
+}

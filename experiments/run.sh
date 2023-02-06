@@ -14,3 +14,7 @@ popd
 pushd queries-complex
 ./run.sh
 popd
+
+pushd fragmentation
+./run.sh
+popd

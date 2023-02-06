@@ -14,3 +14,7 @@ popd
 pushd queries-complex
 npm install
 popd
+
+pushd fragmentation
+npm install
+popd

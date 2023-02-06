@@ -31,6 +31,7 @@
   "queryRunnerUpQuery": "SELECT * WHERE { <http://solidbench-server:3000/pods/00000000000000000933/profile/card#me> a ?o } LIMIT 1",
   "queryRunnerUrlParamsInit": {},
   "queryRunnerUrlParamsRun": { "context": "{ \"lenient\": true }" },
+  "queryTimeoutFallback": 240000,
   "hookSparqlEndpoint": {
     "@id": "urn:jbr:solid-link-traversal:combination_17:hookSparqlEndpoint",
     "@type": "HookSparqlEndpointComunica",

@@ -1,6 +1,6 @@
 #!/bin/bash
 pushd index-vs-storage
-./run.sh
+npm install
 popd
 
 pushd queries-short

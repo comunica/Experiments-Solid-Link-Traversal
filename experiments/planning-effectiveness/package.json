@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@comunica/query-sparql": "^2.4.1",
-    "@comunica/query-sparql-link-traversal-solid": "^0.0.2-alpha.5.0",
+    "@comunica/query-sparql": "^2.6.3",
+    "@comunica/query-sparql-link-traversal-solid": "^0.0.2-alpha.8.0",
     "n3": "^1.16.2",
     "rdf-dereference": "^2.0.0"
   }

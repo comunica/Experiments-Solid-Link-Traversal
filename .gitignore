@@ -1,9 +1,3 @@
 /componentsjs-error-state.json
 /node_modules
-/generated/*
-!/generated/.keep
-/output/*
-!/output/.keep
-/combinations/*/generated
-/combinations/*/output
 results/*/combination_*

@@ -2,7 +2,7 @@
   "private": true,
   "name": "fragmentation",
   "dependencies": {
-    "@jbr-experiment/solidbench": "^2.4.1",
+    "@jbr-experiment/solidbench": "^2.4.3",
     "@jbr-hook/sparql-endpoint-comunica": "^2.3.1",
     "cross-env": "^7.0.3",
     "jbr": "^2.3.1"

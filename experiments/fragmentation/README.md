@@ -1,6 +1,6 @@
 # Comunica Solid Link Traversal Experiment - Different Fragmentation Strategies
 
-This is an experiment to compare the performance of different [link traversal approaches](https://github.com/comunica/comunica-feature-link-traversal) over different fragmentations in Solid data vaults.
+This is an experiment to compare the performance of different [link traversal approaches](https://github.com/comunica/comunica-feature-link-traversal) over different fragmentations and vault sizes in Solid data vaults.
 
 ## Requirements
 

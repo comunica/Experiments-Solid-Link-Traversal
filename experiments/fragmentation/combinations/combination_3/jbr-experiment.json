@@ -7,7 +7,7 @@
   "@id": "urn:jbr:fragmentation:combination_3",
   "@type": "ExperimentSolidBench",
   "scale": "0.1",
-  "configGenerateAux": "input/config-enhancer.json",
+  "configGenerateAux": "input/config-enhancer/1.json",
   "configFragment": "input/config-fragmenter/location.json",
   "configFragmentAux": "input/config-fragmenter-auxiliary.json",
   "configQueries": "input/config-queries.json",

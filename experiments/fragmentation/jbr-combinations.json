@@ -6,6 +6,7 @@
   "@type": "FullFactorialCombinationProvider",
   "commonGenerated": false,
   "factors": {
-      "fragmenting": [ "composite", "separate", "single", "location", "time" ]
+      "fragmenting": [ "composite", "separate", "single", "location", "time" ],
+      "size": [ "1", "10", "100" ]
   }
 }

@@ -2,10 +2,10 @@
   "private": true,
   "name": "fragmentation",
   "dependencies": {
-    "@jbr-experiment/solidbench": "^2.5.0",
-    "@jbr-hook/sparql-endpoint-comunica": "^2.3.1",
+    "@jbr-experiment/solidbench": "^2.5.1",
+    "@jbr-hook/sparql-endpoint-comunica": "^2.5.1",
     "cross-env": "^7.0.3",
-    "jbr": "^2.3.1"
+    "jbr": "^2.5.1"
   },
   "scripts": {
     "jbr": "cross-env NODE_OPTIONS=--max-old-space-size=8192 jbr",

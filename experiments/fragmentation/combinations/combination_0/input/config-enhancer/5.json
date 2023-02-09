@@ -27,7 +27,7 @@
     },
     {
       "@type": "EnhancementHandlerPostsMultiply",
-      "factor": 100
+      "factor": 5
     }
   ]
 }

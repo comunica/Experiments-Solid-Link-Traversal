@@ -7,6 +7,6 @@
   "commonGenerated": false,
   "factors": {
       "fragmenting": [ "composite", "separate", "single", "location", "time" ],
-      "size": [ "1", "10" ]
+      "size": [ "1", "5", "10" ]
   }
 }

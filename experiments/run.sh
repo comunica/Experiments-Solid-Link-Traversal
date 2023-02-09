@@ -3,6 +3,10 @@ pushd index-vs-storage
 ./run.sh
 popd
 
+pushd fragmentation
+./run.sh
+popd
+
 pushd queries-short
 ./run.sh
 popd
@@ -12,9 +16,5 @@ pushd queries-discover
 popd
 
 pushd queries-complex
-./run.sh
-popd
-
-pushd fragmentation
 ./run.sh
 popd

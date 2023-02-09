@@ -19,7 +19,8 @@
       "@id": "urn:comunica:default:extract-links/actors#solid-type-index",
       "@type": "ActorExtractLinksSolidTypeIndex",
       "inference": false,
-      "onlyMatchingTypes": false
+      "onlyMatchingTypes": false,
+      "mediatorDereferenceRdf": { "@id": "urn:comunica:default:dereference-rdf/mediators#main" }
     }
   ]
 }

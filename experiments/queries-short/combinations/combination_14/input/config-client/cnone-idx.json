@@ -9,7 +9,7 @@
       "import": [
         "ccqslt:config/config-solid-base.json",
         "ccqslt:config/extract-links/actors/predicates-common.json",
-        "ccqslt:config/extract-links/actors/predicates-ldp.json",
+        "ccqslt:config/extract-links/actors/predicates-ldp.json"
 
 
 

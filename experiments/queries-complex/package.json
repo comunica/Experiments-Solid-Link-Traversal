@@ -2,7 +2,7 @@
   "private": true,
   "name": "solid-link-traversal",
   "dependencies": {
-    "@jbr-experiment/solidbench": "^2.6.0",
+    "@jbr-experiment/solidbench": "^2.6.1",
     "@jbr-hook/sparql-endpoint-comunica": "^2.6.0",
     "cross-env": "^7.0.3",
     "jbr": "^2.6.0"

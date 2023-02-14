@@ -1,0 +1,113 @@
+\documentclass[preview]{standalone}
+\usepackage[utf8]{inputenc}
+
+
+% Page setup
+\usepackage{amsmath}
+
+% Typography
+\usepackage[scaled]{helvet}
+\let\familydefault\sfdefault
+\usepackage{sansmath}
+\sansmath
+
+\usepackage[usenames,svgnames]{xcolor}
+\usepackage{tikz,pgfplots}
+\usetikzlibrary{arrows,positioning,shapes,calc,intersections,patterns}
+\usepgfplotslibrary{colorbrewer}
+
+\newcommand\plotfontsize{\fontsize{9}{9}\selectfont}
+\pgfplotsset{compat=1.9,
+  axis lines=left,
+  every axis/.append style={
+    font=\plotfontsize,
+  },
+  label style={
+    font=\plotfontsize\bfseries,
+  },
+  tick label style={
+    font=\plotfontsize\bfseries,
+  },
+  xtick style={
+    draw=none,
+  },
+  legend cell align=left,
+  legend style={
+    /tikz/every even column/.append style={column sep=.3em},
+    draw=none, fill=none,
+    inner sep=0pt, outer sep=0pt,
+    anchor=north east,
+    at={(1.2,0.9)},
+    text height=3pt,
+  },
+  log base 10 number format code/.code={%
+    $\pgfmathparse{10^(#1)}\pgfmathprintnumber{\pgfmathresult}$%
+  },
+  cycle list/Paired-12,
+}
+
+\begin{document}
+\pagestyle{empty}
+
+\newenvironment{resultAxis}{
+\begin{axis}[
+    xtick=data,
+    width=352pt,
+    height=96pt,
+    ymin=0,
+    %Y_MAX%
+    bar width=2.75pt,
+    enlarge x limits={abs=20pt},
+    symbolic x coords={D1,D2,D3,D4,D5,D6,D7,D8},
+    % Don't show axis exponent
+    ytick scale label code/.code={},
+    scaled y ticks=false,
+    x axis line style={draw=none},
+    % reverse legend,
+    scale only axis,
+    clip=false,
+    axis on top,
+    area legend,
+    ylabel={},
+    cycle list name=Paired-12,
+    every axis plot/.append style={
+        draw=none,
+        fill,
+    },
+    error bars/error bar style={
+        black,
+        dashed,
+    },
+    error bars/error mark options={
+        line width=1pt,mark size=0.5pt,rotate=90
+    },
+    error bars/y dir=both,
+    error bars/y explicit,
+]
+}{\end{axis}}
+\begin{tikzpicture}
+\begin{resultAxis}
+\addplot+[ybar, xshift=-12.375pt,legend image post style={xshift=12.375pt}] table [x=query, y expr=(\thisrow{0-mean}), y error plus expr=(\thisrow{0-plus}), y error minus expr=(\thisrow{0-minus}), col sep=semicolon]{"queries_frag_time_relative.csv"};
+\addplot+[ybar, xshift=-9.625pt,legend image post style={xshift=9.625pt}] table [x=query, y expr=(\thisrow{1-mean}), y error plus expr=(\thisrow{1-plus}), y error minus expr=(\thisrow{1-minus}), col sep=semicolon]{"queries_frag_time_relative.csv"};
+\addplot+[ybar, xshift=-6.875pt,legend image post style={xshift=6.875pt}] table [x=query, y expr=(\thisrow{2-mean}), y error plus expr=(\thisrow{2-plus}), y error minus expr=(\thisrow{2-minus}), col sep=semicolon]{"queries_frag_time_relative.csv"};
+\addplot+[ybar, xshift=-4.125pt,legend image post style={xshift=4.125pt}] table [x=query, y expr=(\thisrow{3-mean}), y error plus expr=(\thisrow{3-plus}), y error minus expr=(\thisrow{3-minus}), col sep=semicolon]{"queries_frag_time_relative.csv"};
+\addplot+[ybar, xshift=-1.375pt,legend image post style={xshift=1.375pt}] table [x=query, y expr=(\thisrow{4-mean}), y error plus expr=(\thisrow{4-plus}), y error minus expr=(\thisrow{4-minus}), col sep=semicolon]{"queries_frag_time_relative.csv"};
+\addplot+[ybar, xshift=1.375pt,legend image post style={xshift=-1.375pt}] table [x=query, y expr=(\thisrow{5-mean}), y error plus expr=(\thisrow{5-plus}), y error minus expr=(\thisrow{5-minus}), col sep=semicolon]{"queries_frag_time_relative.csv"};
+\addplot+[ybar, xshift=4.125pt,legend image post style={xshift=-4.125pt}] table [x=query, y expr=(\thisrow{6-mean}), y error plus expr=(\thisrow{6-plus}), y error minus expr=(\thisrow{6-minus}), col sep=semicolon]{"queries_frag_time_relative.csv"};
+\addplot+[ybar, xshift=6.875pt,legend image post style={xshift=-6.875pt}] table [x=query, y expr=(\thisrow{7-mean}), y error plus expr=(\thisrow{7-plus}), y error minus expr=(\thisrow{7-minus}), col sep=semicolon]{"queries_frag_time_relative.csv"};
+\addplot+[ybar, xshift=9.625pt,legend image post style={xshift=-9.625pt}] table [x=query, y expr=(\thisrow{8-mean}), y error plus expr=(\thisrow{8-plus}), y error minus expr=(\thisrow{8-minus}), col sep=semicolon]{"queries_frag_time_relative.csv"};
+\addplot+[ybar, xshift=12.375pt,legend image post style={xshift=-12.375pt}] table [x=query, y expr=(\thisrow{9-mean}), y error plus expr=(\thisrow{9-plus}), y error minus expr=(\thisrow{9-minus}), col sep=semicolon]{"queries_frag_time_relative.csv"};
+\addplot+[only marks,xshift=-12.375pt,mark=star,mark options={color=gray,scale=0.5}] table [x=query, y expr=(\thisrow{0-first-mean}), col sep=semicolon]{"queries_frag_time_relative.csv"};
+\addplot+[only marks,xshift=-9.625pt,mark=star,mark options={color=gray,scale=0.5}] table [x=query, y expr=(\thisrow{1-first-mean}), col sep=semicolon]{"queries_frag_time_relative.csv"};
+\addplot+[only marks,xshift=-6.875pt,mark=star,mark options={color=gray,scale=0.5}] table [x=query, y expr=(\thisrow{2-first-mean}), col sep=semicolon]{"queries_frag_time_relative.csv"};
+\addplot+[only marks,xshift=-4.125pt,mark=star,mark options={color=gray,scale=0.5}] table [x=query, y expr=(\thisrow{3-first-mean}), col sep=semicolon]{"queries_frag_time_relative.csv"};
+\addplot+[only marks,xshift=-1.375pt,mark=star,mark options={color=gray,scale=0.5}] table [x=query, y expr=(\thisrow{4-first-mean}), col sep=semicolon]{"queries_frag_time_relative.csv"};
+\addplot+[only marks,xshift=1.375pt,mark=star,mark options={color=gray,scale=0.5}] table [x=query, y expr=(\thisrow{5-first-mean}), col sep=semicolon]{"queries_frag_time_relative.csv"};
+\addplot+[only marks,xshift=4.125pt,mark=star,mark options={color=gray,scale=0.5}] table [x=query, y expr=(\thisrow{6-first-mean}), col sep=semicolon]{"queries_frag_time_relative.csv"};
+\addplot+[only marks,xshift=6.875pt,mark=star,mark options={color=gray,scale=0.5}] table [x=query, y expr=(\thisrow{7-first-mean}), col sep=semicolon]{"queries_frag_time_relative.csv"};
+\addplot+[only marks,xshift=9.625pt,mark=star,mark options={color=gray,scale=0.5}] table [x=query, y expr=(\thisrow{8-first-mean}), col sep=semicolon]{"queries_frag_time_relative.csv"};
+\addplot+[only marks,xshift=12.375pt,mark=star,mark options={color=gray,scale=0.5}] table [x=query, y expr=(\thisrow{9-first-mean}), col sep=semicolon]{"queries_frag_time_relative.csv"};
+\legend{Composite-1,Composite-5,Separate-1,Separate-5,Single-1,Single-5,Location-1,Location-5,Time-1,Time-5}
+\end{resultAxis}
+\end{tikzpicture}
+\end{document}

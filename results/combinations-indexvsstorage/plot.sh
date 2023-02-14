@@ -42,6 +42,12 @@ psbr tex query --name 'queries_indexvsstorage_http' --metric httpRequests --svg 
     --color Paired-12 \
     combination_1/output combination_2/output combination_3/output combination_4/output combination_0/output
 
+psbr tex query --name 'queries_indexvsstorage_http_relative' --metric httpRequests --svg --legendPos '1.5,0.9' --relative \
+    --overrideCombinationLabels TypeIndex,TypeIndex-f,LDP+TypeIndex,LDP+TypeIndex-f,LDP \
+    --overrideQueryLabels D1,D2,D3,D4,D5,D6,D7,D8 \
+    --color Paired-12 \
+    combination_1/output combination_2/output combination_3/output combination_4/output combination_0/output
+
 psbr tex queryTimes 'interactive-discover-1.3' --name 'querytimes_d1-3' --svg \
     --overrideCombinationLabels TypeIndex,TypeIndex-f,LDP+TypeIndex,LDP+TypeIndex-f,LDP \
     --color Paired-12 \

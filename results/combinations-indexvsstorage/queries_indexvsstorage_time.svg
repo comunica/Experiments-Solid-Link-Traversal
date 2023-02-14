@@ -6,6 +6,22 @@
 <path d='M-99.7033-14.8906V-110.5313H375.0507V-14.8906'/>
 </clipPath>
 <path id='g0-0' d='M4.758157-1.338979C4.853798-1.338979 5.003238-1.338979 5.003238-1.494396S4.853798-1.649813 4.758157-1.649813H.992279C.896638-1.649813 .747198-1.649813 .747198-1.494396S.896638-1.338979 .992279-1.338979H4.758157Z'/>
+<use id='g6-43' xlink:href='#g2-43' transform='scale(1.5)'/>
+<use id='g6-45' xlink:href='#g2-45' transform='scale(1.5)'/>
+<use id='g6-48' xlink:href='#g2-48' transform='scale(1.5)'/>
+<use id='g6-49' xlink:href='#g2-49' transform='scale(1.5)'/>
+<use id='g6-68' xlink:href='#g2-68' transform='scale(1.5)'/>
+<use id='g6-73' xlink:href='#g2-73' transform='scale(1.5)'/>
+<use id='g6-76' xlink:href='#g2-76' transform='scale(1.5)'/>
+<use id='g6-80' xlink:href='#g2-80' transform='scale(1.5)'/>
+<use id='g6-84' xlink:href='#g2-84' transform='scale(1.5)'/>
+<use id='g6-100' xlink:href='#g2-100' transform='scale(1.5)'/>
+<use id='g6-101' xlink:href='#g2-101' transform='scale(1.5)'/>
+<use id='g6-102' xlink:href='#g2-102' transform='scale(1.5)'/>
+<use id='g6-110' xlink:href='#g2-110' transform='scale(1.5)'/>
+<use id='g6-112' xlink:href='#g2-112' transform='scale(1.5)'/>
+<use id='g6-120' xlink:href='#g2-120' transform='scale(1.5)'/>
+<use id='g6-121' xlink:href='#g2-121' transform='scale(1.5)'/>
 <path id='g2-43' d='M3.02109-1.510545H1.849993V-2.681641H1.45397V-1.510545H.282874V-1.114522H1.45397V.056575H1.849993V-1.114522H3.02109V-1.510545Z'/>
 <path id='g2-45' d='M1.606722-1.765131H.260244V-1.357793H1.606722V-1.765131Z'/>
 <path id='g2-48' d='M1.555805-4.011147C1.182411-4.011147 .842963-3.84708 .633637-3.569864C.373393-3.219101 .243271-2.681641 .243271-1.940513C.243271-.588377 .695869 .130122 1.555805 .130122C2.404425 .130122 2.868338-.588377 2.868338-1.906568C2.868338-2.687299 2.743873-3.207786 2.477972-3.569864C2.268646-3.852738 1.934855-4.011147 1.555805-4.011147ZM1.555805-3.569864C2.093264-3.569864 2.359165-3.026747 2.359165-1.951828C2.359165-.814676 2.098922-.282874 1.54449-.282874C1.018345-.282874 .752444-.837306 .752444-1.934855S1.018345-3.569864 1.555805-3.569864Z'/>
@@ -24,22 +40,6 @@
 <path id='g2-112' d='M.305503 1.233329H.780731V-.311161C1.02966-.005657 1.306876 .130122 1.691584 .130122C2.455342 .130122 2.958857-.486543 2.958857-1.43134C2.958857-2.427055 2.472315-3.049377 1.685926-3.049377C1.284246-3.049377 .96177-2.868338 .741129-2.517575V-2.964515H.305503V1.233329ZM1.606722-2.608094C2.127209-2.608094 2.466657-2.149839 2.466657-1.442655C2.466657-.769416 2.121552-.311161 1.606722-.311161C1.108864-.311161 .780731-.763759 .780731-1.459628S1.108864-2.608094 1.606722-2.608094Z'/>
 <path id='g2-120' d='M1.651982-1.533175L2.647696-2.964515H2.115894L1.403053-1.889595L.690211-2.964515H.152752L1.142809-1.510545L.096177 0H.633637L1.38608-1.137152L2.127209 0H2.675984L1.651982-1.533175Z'/>
 <path id='g2-121' d='M2.195099-2.964515L1.374765-.656267L.616664-2.964515H.113149L1.114522 .011315L.933483 .480885C.859936 .690211 .752444 .769416 .554432 .769416C.486543 .769416 .407338 .758101 .305503 .735471V1.159782C.40168 1.210699 .497857 1.233329 .622322 1.233329C.775074 1.233329 .93914 1.182411 1.063605 1.091892C1.210699 .9844 1.295561 .859936 1.38608 .622322L2.704271-2.964515H2.195099Z'/>
-<use id='g6-43' xlink:href='#g2-43' transform='scale(1.5)'/>
-<use id='g6-45' xlink:href='#g2-45' transform='scale(1.5)'/>
-<use id='g6-48' xlink:href='#g2-48' transform='scale(1.5)'/>
-<use id='g6-49' xlink:href='#g2-49' transform='scale(1.5)'/>
-<use id='g6-68' xlink:href='#g2-68' transform='scale(1.5)'/>
-<use id='g6-73' xlink:href='#g2-73' transform='scale(1.5)'/>
-<use id='g6-76' xlink:href='#g2-76' transform='scale(1.5)'/>
-<use id='g6-80' xlink:href='#g2-80' transform='scale(1.5)'/>
-<use id='g6-84' xlink:href='#g2-84' transform='scale(1.5)'/>
-<use id='g6-100' xlink:href='#g2-100' transform='scale(1.5)'/>
-<use id='g6-101' xlink:href='#g2-101' transform='scale(1.5)'/>
-<use id='g6-102' xlink:href='#g2-102' transform='scale(1.5)'/>
-<use id='g6-110' xlink:href='#g2-110' transform='scale(1.5)'/>
-<use id='g6-112' xlink:href='#g2-112' transform='scale(1.5)'/>
-<use id='g6-120' xlink:href='#g2-120' transform='scale(1.5)'/>
-<use id='g6-121' xlink:href='#g2-121' transform='scale(1.5)'/>
 <path id='g4-40' d='M1.7227-6.186445C.746786-4.718331 .339448-3.547234 .339448-2.248845C.339448-.941969 .746786 .229128 1.7227 1.697241H2.571321C1.671783-.050917 1.383252-1.001372 1.383252-2.248845C1.383252-3.487831 1.671783-4.455258 2.571321-6.186445H1.7227Z'/>
 <path id='g4-41' d='M1.035317 1.697241C2.011231 .229128 2.418569-.941969 2.418569-2.240359C2.418569-3.547234 2.011231-4.718331 1.035317-6.186445H.186697C1.086234-4.438286 1.374765-3.487831 1.374765-2.240359C1.374765-1.001372 1.086234-.033945 .186697 1.697241H1.035317Z'/>
 <path id='g4-49' d='M2.019717-4.149755V0H3.207786V-6.016721H2.418569C2.231872-5.303879 1.612379-4.938972 .577062-4.938972V-4.149755H2.019717Z'/>
@@ -61,236 +61,248 @@
 <path id='g4-117' d='M4.591038 0V-4.582552H3.402969V-1.714214C3.402969-1.171097 3.02109-.814676 2.444028-.814676C1.934855-.814676 1.680269-1.086234 1.680269-1.637838V-4.582552H.4922V-1.391738C.4922-.381879 1.05229 .195183 2.028203 .195183C2.647696 .195183 3.063521-.033945 3.402969-.543117V0H4.591038Z'/>
 </defs>
 <g id='page1'>
-<path d='M45.144532-14.89057H47.886722V-94.68749H45.144532ZM69.625032-14.89057H72.363232V-93.94921H69.625032ZM94.105432-14.89057H96.843732V-64.38667H94.105432ZM118.585932-14.89057H121.324232V-26.84377H118.585932ZM143.062532-14.89057H145.804732V-86.324214H143.062532ZM167.542732-14.89057H170.284732V-107.12887H167.542732ZM192.023732-14.89057H194.761732V-107.21487H192.023732ZM216.503732-14.89057H219.241732V-102.03127H216.503732Z' fill='#a6cee3'/>
-<path d='M46.515622-94.68749V-100.44917'/>
-<path d='M46.51559-94.68752V-100.4492' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M46.015667-100.448946H47.011761' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M46.51559-94.68752V-83.67581'/>
-<path d='M46.51559-94.68752V-83.67581' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M47.011755-83.675735H46.015661' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M70.9961-93.94924V-97.8242'/>
-<path d='M70.9961-93.94924V-97.8242' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M70.496099-97.824257H71.492193' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M70.9961-93.94924V-86.32815'/>
-<path d='M70.9961-93.94924V-86.32815' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M71.492183-86.328143H70.496089' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M95.4765-64.3867V-67.0391'/>
-<path d='M95.4765-64.3867V-67.0391' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M94.976532-67.039013H95.972626' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M95.4765-64.3867V-57.9531'/>
-<path d='M95.4765-64.3867V-57.9531' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M95.9727-57.953083H94.976607' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M119.9531-26.8438V-30.4414'/>
-<path d='M119.9531-26.8438V-30.4414' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M119.457449-30.441451H120.453543' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M144.4336-86.324244V-89.5469'/>
-<path d='M144.4336-86.324244V-89.5469' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M143.937174-89.546829H144.933268' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M144.4336-86.324244V-79.2344'/>
-<path d='M144.4336-86.324244V-79.2344' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M144.933573-79.234328H143.937479' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M168.9137-107.1289V-111.4922'/>
-<path d='M168.9137-107.1289V-111.4922' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M168.414-111.49261H169.414' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M168.9137-107.1289V-87.20315'/>
-<path d='M168.9137-107.1289V-87.20315' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M169.410368-87.203134H168.414275' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M193.3947-107.2149V-111.4961'/>
-<path d='M193.3947-107.2149V-111.4961' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M192.894732-111.496047H193.890826' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M193.3947-107.2149V-89.01174'/>
-<path d='M193.3947-107.2149V-89.01174' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M193.891101-89.011746H192.895007' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M217.8747-102.0313V-105.3516'/>
-<path d='M217.8747-102.0313V-105.3516' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M217.375434-105.35119H218.371528' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M217.8747-102.0313V-96.875'/>
-<path d='M217.8747-102.0313V-96.875' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M218.370803-96.875006H217.374709' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M47.88669-14.8906H50.62497V-93.34768H47.88669ZM72.3632-14.8906H75.1054V-93.96877H72.3632ZM96.8437-14.8906H99.5859V-63.9141H96.8437ZM121.3242-14.8906H124.0625V-50.8086H121.3242ZM145.8047-14.8906H148.5429V-88.41799H145.8047ZM170.2847-14.8906H173.0237V-107.1367H170.2847ZM194.7617-14.8906H197.5037V-107.2227H194.7617ZM219.2417-14.8906H221.9847V-101.6406H219.2417Z' fill='#1f78b4'/>
-<path d='M49.25387-93.34768V-100.1797'/>
-<path d='M49.25387-93.34768V-100.1797' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M48.757793-100.179291H49.753887' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M49.25387-93.34768V-70.0352'/>
-<path d='M49.25387-93.34768V-70.0352' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M49.753881-70.03516H48.757787' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M73.7343-93.96877V-97.8828'/>
-<path d='M73.7343-93.96877V-97.8828' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M73.238241-97.882803H74.234335' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M73.7343-93.96877V-84.70315'/>
-<path d='M73.7343-93.96877V-84.70315' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M74.234409-84.70314H73.238316' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M98.2148-63.9141V-68.2422'/>
-<path d='M98.2148-63.9141V-68.2422' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M97.714837-68.242193H98.71093' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M98.2148-63.9141V-57.9531'/>
-<path d='M98.2148-63.9141V-57.9531' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M98.71092-57.953102H97.714826' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M122.6953-50.8086V-59.1328'/>
-<path d='M122.6953-50.8086V-59.1328' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M122.194969-59.132817H123.191063' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M147.1757-88.41799V-92.39065'/>
-<path d='M147.1757-88.41799V-92.39065' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M146.675678-92.390648H147.671772' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M147.1757-88.41799V-81.96487'/>
-<path d='M147.1757-88.41799V-81.96487' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M147.672077-81.964885H146.675984' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M171.6527-107.1367V-111.5078'/>
-<path d='M171.6527-107.1367V-111.5078' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M171.156441-111.507459H172.152535' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M171.6527-107.1367V-86.664087'/>
-<path d='M171.6527-107.1367V-86.664087' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M172.152779-86.664081H171.156686' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M196.1327-107.2227V-111.4922'/>
-<path d='M196.1327-107.2227V-111.4922' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M195.637143-111.492435H196.633237' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M196.1327-107.2227V-88.09768'/>
-<path d='M196.1327-107.2227V-88.09768' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M196.632512-88.097692H195.636418' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M220.6137-101.6406V-105.8555'/>
-<path d='M220.6137-101.6406V-105.8555' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M220.112939-105.855505H221.112939' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M220.6137-101.6406V-96.7735'/>
-<path d='M220.6137-101.6406V-96.7735' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M221.109338-96.77345H220.113244' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M50.62497-14.8906H53.36325V-95.25002H50.62497ZM75.1054-14.8906H77.8437V-95.82034H75.1054ZM99.5859-14.8906H102.3242V-63.5742H99.5859ZM124.0625-14.8906H126.8047V-49.6602H124.0625ZM148.5429-14.8906H151.2851V-87.96096H148.5429ZM173.0237-14.8906H175.7617V-107.1914H173.0237ZM197.5037-14.8906H200.2417V-107.3321H197.5037ZM221.9847-14.8906H224.7227V-101.4571H221.9847Z' fill='#b2df8a'/>
-<path d='M51.996062-95.25002V-99.625'/>
-<path d='M51.996062-95.25002V-99.625' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M51.496113-99.624984H52.492207' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M51.996062-95.25002V-86.976587'/>
-<path d='M51.996062-95.25002V-86.976587' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M52.492201-86.976584H51.496107' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M76.4726-95.82034V-99.5508'/>
-<path d='M76.4726-95.82034V-99.5508' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M75.976545-99.550806H76.972639' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M76.4726-95.82034V-86.722681'/>
-<path d='M76.4726-95.82034V-86.722681' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M76.972629-86.722682H75.976535' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M100.9531-63.5742V-67.2617'/>
-<path d='M100.9531-63.5742V-67.2617' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M100.456663-67.261753H101.452756' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M100.9531-63.5742V-57.9531'/>
-<path d='M100.9531-63.5742V-57.9531' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M101.453046-57.953102H100.456953' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M125.4336-49.6602V-57.9805'/>
-<path d='M125.4336-49.6602V-57.9805' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M124.937395-57.980443H125.933489' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M149.914-87.96096V-91.35159'/>
-<path d='M149.914-87.96096V-91.35159' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M149.414214-91.351547H150.410307' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M149.914-87.96096V-82.63284'/>
-<path d='M149.914-87.96096V-82.63284' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M150.410582-82.63279H149.414488' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M174.3947-107.1914V-111.5078'/>
-<path d='M174.3947-107.1914V-111.5078' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M173.894916-111.507641H174.891009' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M174.3947-107.1914V-87.585962'/>
-<path d='M174.3947-107.1914V-87.585962' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M174.890314-87.585976H173.894221' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M198.8747-107.3321V-111.5078'/>
-<path d='M198.8747-107.3321V-111.5078' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M198.374648-111.507458H199.370742' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M198.8747-107.3321V-90.91409'/>
-<path d='M198.8747-107.3321V-90.91409' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M199.371047-90.91406H198.374953' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M223.3517-101.4571V-104.8164'/>
-<path d='M223.3517-101.4571V-104.8164' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M222.85538-104.816633H223.851474' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M223.3517-101.4571V-97.3516'/>
-<path d='M223.3517-101.4571V-97.3516' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M223.851749-97.351582H222.855655' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M53.36325-14.8906H56.10544V-95.03127H53.36325ZM77.8437-14.8906H80.5859V-95.83206H77.8437ZM102.3242-14.8906H105.0625V-65.0235H102.3242ZM126.8047-14.8906H129.5429V-26.8438H126.8047ZM151.2851-14.8906H154.0237V-87.97659H151.2851ZM175.7617-14.8906H178.5037V-107.2071H175.7617ZM200.2417-14.8906H202.9847V-107.3086H200.2417ZM224.7227-14.8906H227.4607V-101.7696H224.7227Z' fill='#33a02c'/>
-<path d='M54.73434-95.03127V-99.6289'/>
-<path d='M54.73434-95.03127V-99.6289' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M54.238239-99.628941H55.234333' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M54.73434-95.03127V-85.964869'/>
-<path d='M54.73434-95.03127V-85.964869' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M55.234431-85.964867H54.234431' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M79.2148-95.83206V-99.7149'/>
-<path d='M79.2148-95.83206V-99.7149' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M78.714865-99.714825H79.710959' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M79.2148-95.83206V-86.625025'/>
-<path d='M79.2148-95.83206V-86.625025' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M79.710949-86.625021H78.714855' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M103.6953-65.0235V-67.8711'/>
-<path d='M103.6953-65.0235V-67.8711' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M103.195183-67.871098H104.191276' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M103.6953-65.0235V-57.9531'/>
-<path d='M103.6953-65.0235V-57.9531' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M104.191566-57.953102H103.195472' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M128.1718-26.8438V-30.4414'/>
-<path d='M128.1718-26.8438V-30.4414' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M127.675923-30.441451H128.672016' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M152.6527-87.97659V-91.28127'/>
-<path d='M152.6527-87.97659V-91.28127' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M152.156625-91.281256H153.152718' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M152.6527-87.97659V-81.75784'/>
-<path d='M152.6527-87.97659V-81.75784' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M153.152023-81.757814H152.15593' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M177.1327-107.2071V-111.5078'/>
-<path d='M177.1327-107.2071V-111.5078' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M176.636357-111.507739H177.632451' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M177.1327-107.2071V-88.05081'/>
-<path d='M177.1327-107.2071V-88.05081' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M177.632725-88.050755H176.636632' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M201.6137-107.3086V-111.5078'/>
-<path d='M201.6137-107.3086V-111.5078' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M201.113183-111.508276H202.109277' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M201.6137-107.3086V-89.97659'/>
-<path d='M201.6137-107.3086V-89.97659' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M202.109552-89.976578H201.113458' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M226.0937-101.7696V-105.8008'/>
-<path d='M226.0937-101.7696V-105.8008' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M225.593916-105.800466H226.590009' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M226.0937-101.7696V-97.4844'/>
-<path d='M226.0937-101.7696V-97.4844' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M226.590284-97.484416H225.59419' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M56.10544-14.8906H58.84372V-95.21096H56.10544ZM80.5859-14.8906H83.3242V-96.02346H80.5859ZM105.0625-14.8906H107.8047V-62.7149H105.0625ZM129.5429-14.8906H132.2851V-26.8438H129.5429ZM154.0237-14.8906H156.7617V-87.394556H154.0237ZM178.5037-14.8906H181.2417V-107.2266H178.5037ZM202.9847-14.8906H205.7227V-107.2539H202.9847ZM227.4607-14.8906H230.2027V-105.1016H227.4607Z' fill='#fb9a99'/>
-<path d='M57.47262-95.21096V-99.1133'/>
-<path d='M57.47262-95.21096V-99.1133' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M56.976559-99.113285H57.972653' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M57.47262-95.21096V-86.101587'/>
-<path d='M57.47262-95.21096V-86.101587' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M57.97265-86.101543H56.976557' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M81.9531-96.02346V-99.3321'/>
-<path d='M81.9531-96.02346V-99.3321' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M81.456992-99.331984H82.453085' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M81.9531-96.02346V-86.789087'/>
-<path d='M81.9531-96.02346V-86.789087' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M82.453175-86.789014H81.457081' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M106.4336-62.7149V-66.0469'/>
-<path d='M106.4336-62.7149V-66.0469' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M105.937609-66.046896H106.933702' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M106.4336-62.7149V-57.9531'/>
-<path d='M106.4336-62.7149V-57.9531' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M106.934-57.953102H105.934' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M130.914-26.8438V-30.4414'/>
-<path d='M130.914-26.8438V-30.4414' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M130.414427-30.441451H131.410521' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M155.3947-87.394556V-90.36331'/>
-<path d='M155.3947-87.394556V-90.36331' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M154.89416-90.363256H155.890253' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M155.3947-87.394556V-81.44534'/>
-<path d='M155.3947-87.394556V-81.44534' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M155.890528-81.445348H154.894434' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M179.8707-107.2266V-111.5039'/>
-<path d='M179.8707-107.2266V-111.5039' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M179.374892-111.504015H180.370986' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M179.8707-107.2266V-89.33987'/>
-<path d='M179.8707-107.2266V-89.33987' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M180.37126-89.339801H179.375167' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M204.3517-107.2539V-111.4961'/>
-<path d='M204.3517-107.2539V-111.4961' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M203.855625-111.495961H204.851718' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M204.3517-107.2539V-88.66799'/>
-<path d='M204.3517-107.2539V-88.66799' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M204.851993-88.668016H203.855899' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M228.8317-105.1016V-108'/>
-<path d='M228.8317-105.1016V-108' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M228.336326-108.000473H229.33242' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M228.8317-105.1016V-102.5196'/>
-<path d='M228.8317-105.1016V-102.5196' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
-<path d='M229.331695-102.519289H228.335601' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M45.144532-14.89057H47.886722V-90.97265H45.144532ZM69.625032-14.89057H72.363232V-90.19921H69.625032ZM94.105432-14.89057H96.843732V-91.46484H94.105432ZM118.585932-14.89057H121.324232V-96.05859H118.585932ZM143.062532-14.89057H145.804732V-85.667964H143.062532ZM167.542732-14.89057H170.284732V-104.11327H167.542732ZM192.023732-14.89057H194.761732V-106.88667H192.023732ZM216.503732-14.89057H219.241732V-96.5039H216.503732Z' fill='#a6cee3'/>
+<path d='M46.515622-90.97265V-94.91406'/>
+<path d='M46.51559-90.97268V-94.91409' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M46.015667-94.914051H47.011761' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M46.51559-90.97268V-85.5469'/>
+<path d='M46.51559-90.97268V-85.5469' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M47.011755-85.546821H46.015661' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M70.9961-90.19924V-93.55081'/>
+<path d='M70.9961-90.19924V-93.55081' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M70.496099-93.550737H71.492193' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M70.9961-90.19924V-80.94143'/>
+<path d='M70.9961-90.19924V-80.94143' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M71.492183-80.941387H70.496089' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M95.4765-91.46487V-92.70315'/>
+<path d='M95.4765-91.46487V-92.70315' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M94.976532-92.703166H95.972626' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M95.4765-91.46487V-87.593775'/>
+<path d='M95.4765-91.46487V-87.593775' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M95.9727-87.593777H94.976607' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M119.9531-96.05862V-100.6094'/>
+<path d='M119.9531-96.05862V-100.6094' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M119.457449-100.608931H120.453543' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M119.9531-96.05862V-80.58987'/>
+<path d='M119.9531-96.05862V-80.58987' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M120.452833-80.589875H119.456739' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M144.4336-85.667994V-88.13674'/>
+<path d='M144.4336-85.667994V-88.13674' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M143.937174-88.136687H144.933268' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M144.4336-85.667994V-78.05081'/>
+<path d='M144.4336-85.667994V-78.05081' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M144.933573-78.050782H143.937479' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M168.9137-104.1133V-109.5039'/>
+<path d='M168.9137-104.1133V-109.5039' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M168.414-109.503671H169.414' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M168.9137-104.1133V-79.07424'/>
+<path d='M168.9137-104.1133V-79.07424' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M169.410368-79.074229H168.414275' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M193.3947-106.8867V-111.5'/>
+<path d='M193.3947-106.8867V-111.5' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M192.894732-111.499587H193.890826' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M193.3947-106.8867V-80.24612'/>
+<path d='M193.3947-106.8867V-80.24612' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M193.891101-80.246082H192.895007' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M217.8747-96.50393V-101.6797'/>
+<path d='M217.8747-96.50393V-101.6797' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M217.375434-101.679596H218.371528' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M217.8747-96.50393V-91.49221'/>
+<path d='M217.8747-96.50393V-91.49221' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M218.370803-91.492175H217.374709' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M47.88669-14.8906H50.62497V-88.83206H47.88669ZM72.3632-14.8906H75.1054V-90.33206H72.3632ZM96.8437-14.8906H99.5859V-91.30081H96.8437ZM121.3242-14.8906H124.0625V-96.47268H121.3242ZM145.8047-14.8906H148.5429V-85.2969H145.8047ZM170.2847-14.8906H173.0237V-104H170.2847ZM194.7617-14.8906H197.5037V-106.8711H194.7617ZM219.2417-14.8906H221.9847V-96.61721H219.2417Z' fill='#1f78b4'/>
+<path d='M49.25387-88.83206V-94.29299'/>
+<path d='M49.25387-88.83206V-94.29299' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M48.757793-94.292995H49.753887' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M49.25387-88.83206V-72.1836'/>
+<path d='M49.25387-88.83206V-72.1836' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M49.753881-72.183555H48.757787' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M73.7343-90.33206V-93.70706'/>
+<path d='M73.7343-90.33206V-93.70706' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M73.238241-93.707073H74.234335' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M73.7343-90.33206V-82.60159'/>
+<path d='M73.7343-90.33206V-82.60159' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M74.234409-82.601594H73.238316' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M98.2148-91.30081V-92.36331'/>
+<path d='M98.2148-91.30081V-92.36331' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M97.714837-92.363247H98.71093' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M98.2148-91.30081V-88.20315'/>
+<path d='M98.2148-91.30081V-88.20315' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M98.71092-88.203071H97.714826' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M122.6953-96.47268V-101.4922'/>
+<path d='M122.6953-96.47268V-101.4922' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M122.194969-101.492619H123.191063' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M122.6953-96.47268V-80.92971'/>
+<path d='M122.6953-96.47268V-80.92971' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M123.191368-80.929739H122.195274' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M147.1757-85.2969V-88.07815'/>
+<path d='M147.1757-85.2969V-88.07815' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M146.675678-88.078126H147.671772' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M147.1757-85.2969V-79.25393'/>
+<path d='M147.1757-85.2969V-79.25393' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M147.672077-79.253962H146.675984' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M171.6527-104V-109.3242'/>
+<path d='M171.6527-104V-109.3242' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M171.156441-109.324122H172.152535' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M171.6527-104V-79.52737'/>
+<path d='M171.6527-104V-79.52737' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M172.152779-79.527362H171.156686' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M196.1327-106.8711V-111.4805'/>
+<path d='M196.1327-106.8711V-111.4805' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M195.637143-111.480038H196.633237' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M196.1327-106.8711V-81.59768'/>
+<path d='M196.1327-106.8711V-81.59768' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M196.632512-81.597698H195.636418' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M220.6137-96.61721V-102.5586'/>
+<path d='M220.6137-96.61721V-102.5586' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M220.112939-102.558129H221.112939' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M220.6137-96.61721V-91.17581'/>
+<path d='M220.6137-96.61721V-91.17581' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M221.109338-91.175782H220.113244' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M50.62497-14.8906H53.36325V-91.19143H50.62497ZM75.1054-14.8906H77.8437V-90.87893H75.1054ZM99.5859-14.8906H102.3242V-91.4844H99.5859ZM124.0625-14.8906H126.8047V-96.57034H124.0625ZM148.5429-14.8906H151.2851V-86.097681H148.5429ZM173.0237-14.8906H175.7617V-103.8399H173.0237ZM197.5037-14.8906H200.2417V-106.8946H197.5037ZM221.9847-14.8906H224.7227V-104.336H221.9847Z' fill='#b2df8a'/>
+<path d='M51.996062-91.19143V-95.08596'/>
+<path d='M51.996062-91.19143V-95.08596' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M51.496113-95.085966H52.492207' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M51.996062-91.19143V-85.980494'/>
+<path d='M51.996062-91.19143V-85.980494' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M52.492201-85.98049H51.496107' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M76.4726-90.87893V-93.72659'/>
+<path d='M76.4726-90.87893V-93.72659' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M75.976545-93.726611H76.972639' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M76.4726-90.87893V-85.26565'/>
+<path d='M76.4726-90.87893V-85.26565' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M76.972629-85.26563H75.976535' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M100.9531-91.4844V-92.91409'/>
+<path d='M100.9531-91.4844V-92.91409' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M100.456663-92.914078H101.452756' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M100.9531-91.4844V-87.89456'/>
+<path d='M100.9531-91.4844V-87.89456' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M101.453046-87.89455H100.456953' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M125.4336-96.57034V-101.2813'/>
+<path d='M125.4336-96.57034V-101.2813' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M124.937395-101.280946H125.933489' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M125.4336-96.57034V-84.0469'/>
+<path d='M125.4336-96.57034V-84.0469' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M125.933779-84.046896H124.937685' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M149.914-86.097681V-88.69924'/>
+<path d='M149.914-86.097681V-88.69924' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M149.414214-88.699181H150.410307' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M149.914-86.097681V-80.26565'/>
+<path d='M149.914-86.097681V-80.26565' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M150.410582-80.265643H149.414488' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M174.3947-103.8399V-109.0156'/>
+<path d='M174.3947-103.8399V-109.0156' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M173.894916-109.015901H174.891009' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M174.3947-103.8399V-81.54299'/>
+<path d='M174.3947-103.8399V-81.54299' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M174.890314-81.54296H173.894221' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M198.8747-106.8946V-111.4883'/>
+<path d='M198.8747-106.8946V-111.4883' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M198.374648-111.487993H199.370742' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M198.8747-106.8946V-83.58206'/>
+<path d='M198.8747-106.8946V-83.58206' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M199.371047-83.582001H198.374953' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M223.3517-104.336V-111.5938'/>
+<path d='M223.3517-104.336V-111.5938' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M222.85538-111.594108H223.851474' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M223.3517-104.336V-92.04299'/>
+<path d='M223.3517-104.336V-92.04299' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M223.851749-92.043004H222.855655' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M53.36325-14.8906H56.10544V-91.31252H53.36325ZM77.8437-14.8906H80.5859V-90.90237H77.8437ZM102.3242-14.8906H105.0625V-91.49612H102.3242ZM126.8047-14.8906H129.5429V-96.03909H126.8047ZM151.2851-14.8906H154.0237V-85.82815H151.2851ZM175.7617-14.8906H178.5037V-104.1172H175.7617ZM200.2417-14.8906H202.9847V-106.8946H200.2417ZM224.7227-14.8906H227.4607V-95.97268H224.7227Z' fill='#33a02c'/>
+<path d='M54.73434-91.31252V-94.9219'/>
+<path d='M54.73434-91.31252V-94.9219' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M54.238239-94.921889H55.234333' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M54.73434-91.31252V-84.64846'/>
+<path d='M54.73434-91.31252V-84.64846' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M55.234431-84.648406H54.234431' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M79.2148-90.90237V-93.90627'/>
+<path d='M79.2148-90.90237V-93.90627' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M78.714865-93.906278H79.710959' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M79.2148-90.90237V-83.14456'/>
+<path d='M79.2148-90.90237V-83.14456' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M79.710949-83.14454H78.714855' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M103.6953-91.49612V-93.01956'/>
+<path d='M103.6953-91.49612V-93.01956' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M103.195183-93.019508H104.191276' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M103.6953-91.49612V-88.17581'/>
+<path d='M103.6953-91.49612V-88.17581' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M104.191566-88.175769H103.195472' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M128.1718-96.03909V-100.418'/>
+<path d='M128.1718-96.03909V-100.418' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M127.675923-100.417794H128.672016' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M128.1718-96.03909V-83.18752'/>
+<path d='M128.1718-96.03909V-83.18752' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M128.672291-83.187528H127.676197' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M152.6527-85.82815V-88.33987'/>
+<path d='M152.6527-85.82815V-88.33987' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M152.156625-88.339811H153.152718' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M152.6527-85.82815V-81.14065'/>
+<path d='M152.6527-85.82815V-81.14065' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M153.152023-81.140669H152.15593' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M177.1327-104.1172V-109.4649'/>
+<path d='M177.1327-104.1172V-109.4649' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M176.636357-109.465168H177.632451' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M177.1327-104.1172V-81.31643'/>
+<path d='M177.1327-104.1172V-81.31643' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M177.632725-81.316442H176.636632' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M201.6137-106.8946V-111.4844'/>
+<path d='M201.6137-106.8946V-111.4844' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M201.113183-111.484198H202.109277' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M201.6137-106.8946V-83.56252'/>
+<path d='M201.6137-106.8946V-83.56252' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M202.109552-83.562484H201.113458' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M226.0937-95.97268V-101.6524'/>
+<path d='M226.0937-95.97268V-101.6524' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M225.593916-101.652611H226.590009' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M226.0937-95.97268V-91.11331'/>
+<path d='M226.0937-95.97268V-91.11331' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M226.590284-91.11331H225.59419' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M56.10544-14.8906H58.84372V-91.35159H56.10544ZM80.5859-14.8906H83.3242V-91.10159H80.5859ZM105.0625-14.8906H107.8047V-91.58206H105.0625ZM129.5429-14.8906H132.2851V-96.06252H129.5429ZM154.0237-14.8906H156.7617V-85.871119H154.0237ZM178.5037-14.8906H181.2417V-104.336H178.5037ZM202.9847-14.8906H205.7227V-106.9063H202.9847ZM227.4607-14.8906H230.2027V-99.3086H227.4607Z' fill='#fb9a99'/>
+<path d='M57.47262-91.35159V-95.45315'/>
+<path d='M57.47262-91.35159V-95.45315' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M56.976559-95.453103H57.972653' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M57.47262-91.35159V-83.76565'/>
+<path d='M57.47262-91.35159V-83.76565' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M57.97265-83.765594H56.976557' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M81.9531-91.10159V-94.51956'/>
+<path d='M81.9531-91.10159V-94.51956' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M81.456992-94.519564H82.453085' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M81.9531-91.10159V-82.87502'/>
+<path d='M81.9531-91.10159V-82.87502' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M82.453175-82.874963H81.457081' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M106.4336-91.58206V-92.94924'/>
+<path d='M106.4336-91.58206V-92.94924' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M105.937609-92.949191H106.933702' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M106.4336-91.58206V-88.49221'/>
+<path d='M106.4336-91.58206V-88.49221' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M106.934-88.492229H105.934' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M130.914-96.06252V-100.4805'/>
+<path d='M130.914-96.06252V-100.4805' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M130.414427-100.480725H131.410521' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M130.914-96.06252V-83.10549'/>
+<path d='M130.914-96.06252V-83.10549' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M131.409826-83.105457H130.413732' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M155.3947-85.871119V-89.20706'/>
+<path d='M155.3947-85.871119V-89.20706' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M154.89416-89.207009H155.890253' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M155.3947-85.871119V-80.53909'/>
+<path d='M155.3947-85.871119V-80.53909' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M155.890528-80.539048H154.894434' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M179.8707-104.336V-109.5899'/>
+<path d='M179.8707-104.336V-109.5899' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M179.374892-109.589489H180.370986' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M179.8707-104.336V-81.48831'/>
+<path d='M179.8707-104.336V-81.48831' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M180.37126-81.488256H179.375167' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M204.3517-106.9063V-111.4805'/>
+<path d='M204.3517-106.9063V-111.4805' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M203.855625-111.480756H204.851718' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M204.3517-106.9063V-85.18752'/>
+<path d='M204.3517-106.9063V-85.18752' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M204.851993-85.187521H203.855899' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M228.8317-99.3086V-105.5'/>
+<path d='M228.8317-99.3086V-105.5' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
+<path d='M228.336326-105.499694H229.33242' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10' stroke-dasharray='2.98883,2.98883'/>
 <path d='M39.9062-14.8906H44.15622M39.9062-62.711H44.15622M39.9062-110.5313H44.15622' stroke='#808080' fill='none' stroke-width='.19925' stroke-miterlimit='10' clip-path='url(#clip2)'/>
 <path d='M42.03122-14.8906V-108.5391' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
 <path d='M42.03129-110.53168L40.43754-107.34418L42.03129-108.539489L43.62504-107.34418'/>
@@ -343,46 +355,46 @@
 <use x='98.763908' y='-101.511696' xlink:href='#g6-48'/>
 <use x='103.499882' y='-105.3207' xlink:href='#g2-50'/>
 </g>
-<path d='M46.51559-88.87502V-89.87112M46.51559-88.87502L47.46091-89.18362M46.51559-88.87502L47.10153-88.07034M46.51559-88.87502L45.92966-88.07034M46.51559-88.87502L45.56637-89.18362' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M70.9961-87.97659V-88.97268M70.9961-87.97659L71.9414-88.28518M70.9961-87.97659L71.582-87.1719M70.9961-87.97659L70.4101-87.1719M70.9961-87.97659L70.0468-88.28518' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M95.4765-61.4258V-62.4219M95.4765-61.4258L96.4218-61.7344M95.4765-61.4258L96.0586-60.6211M95.4765-61.4258L94.8906-60.6211M95.4765-61.4258L94.5273-61.7344' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M119.9531-26.8438V-27.8399M119.9531-26.8438L120.9023-27.1524M119.9531-26.8438L120.539-26.0391M119.9531-26.8438L119.3672-26.0391M119.9531-26.8438L119.0078-27.1524' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M144.4336-76.95315V-77.95315M144.4336-76.95315L145.3828-77.26174M144.4336-76.95315L145.0195-76.1485M144.4336-76.95315L143.8476-76.1485M144.4336-76.95315L143.4882-77.26174' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M168.9137-92.16799V-93.16409M168.9137-92.16799L169.8637-92.47659M168.9137-92.16799L169.4997-91.36331M168.9137-92.16799L168.3277-91.36331M168.9137-92.16799L167.9647-92.47659' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M193.3947-95.14456V-96.14065M193.3947-95.14456L194.3397-95.45315M193.3947-95.14456L193.9807-94.33987M193.3947-95.14456L192.8087-94.33987M193.3947-95.14456L192.4457-95.45315' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M217.8747-101.1875V-102.1836M217.8747-101.1875L218.8207-101.4961M217.8747-101.1875L218.4607-100.3828M217.8747-101.1875L217.2887-100.3828M217.8747-101.1875L216.9257-101.4961' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M49.25387-86.76565V-87.76174M49.25387-86.76565L50.20309-87.074244M49.25387-86.76565L49.83981-85.957056M49.25387-86.76565L48.66794-85.957056M49.25387-86.76565L48.30856-87.074244' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M73.7343-87.570337V-88.56643M73.7343-87.570337L74.6836-87.87502M73.7343-87.570337L74.3203-86.761744M73.7343-87.570337L73.1484-86.761744M73.7343-87.570337L72.789-87.87502' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M98.2148-61.0117V-62.0078M98.2148-61.0117L99.1601-61.3203M98.2148-61.0117L98.8007-60.2071M98.2148-61.0117L97.6289-60.2071M98.2148-61.0117L97.2656-61.3203' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M122.6953-48.1875V-49.1836M122.6953-48.1875L123.6406-48.4961M122.6953-48.1875L123.2812-47.3828M122.6953-48.1875L122.1093-47.3828M122.6953-48.1875L121.7461-48.4961' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M147.1757-79.88284V-80.87893M147.1757-79.88284L148.1211-80.19143M147.1757-79.88284L147.7578-79.07815M147.1757-79.88284L146.5898-79.07815M147.1757-79.88284L146.2265-80.19143' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M171.6527-92.01174V-93.00784M171.6527-92.01174L172.6017-92.32034M171.6527-92.01174L172.2387-91.20706M171.6527-92.01174L171.0667-91.20706M171.6527-92.01174L170.7067-92.32034' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M196.1327-95.46487V-96.46096M196.1327-95.46487L197.0817-95.77346M196.1327-95.46487L196.7187-94.66018M196.1327-95.46487L195.5467-94.66018M196.1327-95.46487L195.1877-95.77346' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M220.6137-101.0703V-102.0664M220.6137-101.0703L221.5627-101.375M220.6137-101.0703L221.1987-100.2617M220.6137-101.0703L220.0277-100.2617M220.6137-101.0703L219.6637-101.375' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M51.996062-90.66409V-91.66018M51.996062-90.66409L52.941374-90.97268M51.996062-90.66409L52.581999-89.85549M51.996062-90.66409L51.410124-89.85549M51.996062-90.66409L51.046843-90.97268' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M76.4726-89.95315V-90.94924M76.4726-89.95315L77.4218-90.25784M76.4726-89.95315L77.0586-89.14456M76.4726-89.95315L75.8906-89.14456M76.4726-89.95315L75.5273-90.25784' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M100.9531-58.2188V-59.2149M100.9531-58.2188L101.9023-58.5274M100.9531-58.2188L101.539-57.4141M100.9531-58.2188L100.3672-57.4141M100.9531-58.2188L100.0078-58.5274' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M125.4336-26.8438V-27.8399M125.4336-26.8438L126.3828-27.1524M125.4336-26.8438L126.0195-26.0391M125.4336-26.8438L124.8476-26.0391M125.4336-26.8438L124.4882-27.1524' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M149.914-78.14456V-79.14065M149.914-78.14456L150.8593-78.45315M149.914-78.14456L150.5-77.33596M149.914-78.14456L149.3281-77.33596M149.914-78.14456L148.9648-78.45315' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M174.3947-93.03909V-94.03909M174.3947-93.03909L175.3397-93.34768M174.3947-93.03909L174.9807-92.2344M174.3947-93.03909L173.8087-92.2344M174.3947-93.03909L173.4457-93.34768' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M198.8747-95.43362V-96.42971M198.8747-95.43362L199.8207-95.74221M198.8747-95.43362L199.4567-94.62893M198.8747-95.43362L198.2887-94.62893M198.8747-95.43362L197.9257-95.74221' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M223.3517-100.6992V-101.6953M223.3517-100.6992L224.3007-101.0078M223.3517-100.6992L223.9377-99.8906M223.3517-100.6992L222.7657-99.8906M223.3517-100.6992L222.4067-101.0078' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M54.73434-90.23831V-91.2344M54.73434-90.23831L55.68356-90.5469M54.73434-90.23831L55.32028-89.43362M54.73434-90.23831L54.14841-89.43362M54.73434-90.23831L53.78512-90.5469' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M79.2148-89.78127V-90.77737M79.2148-89.78127L80.1601-90.08596M79.2148-89.78127L79.8007-88.97268M79.2148-89.78127L78.6289-88.97268M79.2148-89.78127L78.2656-90.08596' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M103.6953-60.7149V-61.711M103.6953-60.7149L104.6406-61.0235M103.6953-60.7149L104.2812-59.9102M103.6953-60.7149L103.1093-59.9102M103.6953-60.7149L102.7461-61.0235' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M128.1718-26.8438V-27.8399M128.1718-26.8438L129.1211-27.1524M128.1718-26.8438L128.7578-26.0391M128.1718-26.8438L127.5898-26.0391M128.1718-26.8438L127.2265-27.1524' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M152.6527-79.24221V-80.23831M152.6527-79.24221L153.6017-79.55081M152.6527-79.24221L153.2387-78.43752M152.6527-79.24221L152.0667-78.43752M152.6527-79.24221L151.707-79.55081' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M177.1327-92.7969V-93.79299M177.1327-92.7969L178.0817-93.10549M177.1327-92.7969L177.7187-91.99221M177.1327-92.7969L176.5467-91.99221M177.1327-92.7969L176.1877-93.10549' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M201.6137-96.0469V-97.043M201.6137-96.0469L202.5587-96.35549M201.6137-96.0469L202.1987-95.24221M201.6137-96.0469L201.0277-95.24221M201.6137-96.0469L200.6637-96.35549' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M226.0937-101.0586V-102.0547M226.0937-101.0586L227.0387-101.3672M226.0937-101.0586L226.6797-100.25M226.0937-101.0586L225.5077-100.25M226.0937-101.0586L225.1447-101.3672' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M57.47262-90.25393V-91.25002M57.47262-90.25393L58.42184-90.56252M57.47262-90.25393L58.05856-89.44924M57.47262-90.25393L56.88669-89.44924M57.47262-90.25393L56.52731-90.56252' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M81.9531-90.3594V-91.35549M81.9531-90.3594L82.9023-90.66799M81.9531-90.3594L82.539-89.55471M81.9531-90.3594L81.3672-89.55471M81.9531-90.3594L81.0078-90.66799' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M106.4336-58.2188V-59.2149M106.4336-58.2188L107.3828-58.5274M106.4336-58.2188L107.0195-57.4141M106.4336-58.2188L105.8476-57.4141M106.4336-58.2188L105.4843-58.5274' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M130.914-26.8438V-27.8399M130.914-26.8438L131.8593-27.1524M130.914-26.8438L131.5-26.0391M130.914-26.8438L130.3281-26.0391M130.914-26.8438L129.9648-27.1524' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M155.3947-78.64065V-79.63674M155.3947-78.64065L156.3397-78.94924M155.3947-78.64065L155.9807-77.83596M155.3947-78.64065L154.8087-77.83596M155.3947-78.64065L154.4457-78.94924' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M179.8707-93.85159V-94.84768M179.8707-93.85159L180.8207-94.16018M179.8707-93.85159L180.4567-93.0469M179.8707-93.85159L179.2887-93.0469M179.8707-93.85159L178.9257-94.16018' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M204.3517-95.66409V-96.6641M204.3517-95.66409L205.3007-95.97268M204.3517-95.66409L204.9377-94.8594M204.3517-95.66409L203.7657-94.8594M204.3517-95.66409L203.4067-95.97268' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M228.8317-104.0156V-105.0117M228.8317-104.0156L229.7817-104.3242M228.8317-104.0156L229.4177-103.211M228.8317-104.0156L228.2457-103.211M228.8317-104.0156L227.8867-104.3242' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M46.51559-84.93362V-85.929712M46.51559-84.93362L47.46091-85.24221M46.51559-84.93362L47.10153-84.12502M46.51559-84.93362L45.92966-84.12502M46.51559-84.93362L45.56637-85.24221' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M70.9961-83.22659V-84.22268M70.9961-83.22659L71.9414-83.53518M70.9961-83.22659L71.582-82.4219M70.9961-83.22659L70.4101-82.4219M70.9961-83.22659L70.0468-83.53518' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M95.4765-91.44924V-92.44534M95.4765-91.44924L96.4218-91.75784M95.4765-91.44924L96.0586-90.64456M95.4765-91.44924L94.8906-90.64456M95.4765-91.44924L94.5273-91.75784' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M119.9531-96.05862V-97.0547M119.9531-96.05862L120.9023-96.36721M119.9531-96.05862L120.539-95.25393M119.9531-96.05862L119.3672-95.25393M119.9531-96.05862L119.0078-96.36721' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M144.4336-79.28518V-80.28127M144.4336-79.28518L145.3828-79.59377M144.4336-79.28518L145.0195-78.48049M144.4336-79.28518L143.8476-78.48049M144.4336-79.28518L143.4882-79.59377' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M168.9137-86.097681V-87.093775M168.9137-86.097681L169.8637-86.406275M168.9137-86.097681L169.4997-85.29299M168.9137-86.097681L168.3277-85.29299M168.9137-86.097681L167.9647-86.406275' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M193.3947-88.43752V-89.43362M193.3947-88.43752L194.3397-88.74612M193.3947-88.43752L193.9807-87.63284M193.3947-88.43752L192.8087-87.63284M193.3947-88.43752L192.4457-88.74612' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M217.8747-96.27346V-97.2696M217.8747-96.27346L218.8207-96.58206M217.8747-96.27346L218.4607-95.46877M217.8747-96.27346L217.2887-95.46877M217.8747-96.27346L216.9257-96.58206' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M49.25387-82.84377V-83.83987M49.25387-82.84377L50.20309-83.15237M49.25387-82.84377L49.83981-82.03909M49.25387-82.84377L48.66794-82.03909M49.25387-82.84377L48.30856-83.15237' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M73.7343-83.70315V-84.69924M73.7343-83.70315L74.6836-84.01174M73.7343-83.70315L74.3203-82.89846M73.7343-83.70315L73.1484-82.89846M73.7343-83.70315L72.789-84.01174' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M98.2148-91.27737V-92.27346M98.2148-91.27737L99.1601-91.58206M98.2148-91.27737L98.8007-90.46877M98.2148-91.27737L97.6289-90.46877M98.2148-91.27737L97.2656-91.58206' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M122.6953-96.47268V-97.4688M122.6953-96.47268L123.6406-96.7813M122.6953-96.47268L123.2812-95.66799M122.6953-96.47268L122.1093-95.66799M122.6953-96.47268L121.7461-96.7813' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M147.1757-78.21877V-79.21487M147.1757-78.21877L148.1211-78.52737M147.1757-78.21877L147.7578-77.41018M147.1757-78.21877L146.5898-77.41018M147.1757-78.21877L146.2265-78.52737' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M171.6527-85.82815V-86.824244M171.6527-85.82815L172.6017-86.132837M171.6527-85.82815L172.2387-85.01956M171.6527-85.82815L171.0667-85.01956M171.6527-85.82815L170.7067-86.132837' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M196.1327-88.43752V-89.43362M196.1327-88.43752L197.0817-88.74612M196.1327-88.43752L196.7187-87.63284M196.1327-88.43752L195.5467-87.63284M196.1327-88.43752L195.1877-88.74612' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M220.6137-96.39456V-97.3906M220.6137-96.39456L221.5627-96.6992M220.6137-96.39456L221.1987-95.58596M220.6137-96.39456L220.0277-95.58596M220.6137-96.39456L219.6637-96.6992' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M51.996062-84.37502V-85.37112M51.996062-84.37502L52.941374-84.68362M51.996062-84.37502L52.581999-83.57034M51.996062-84.37502L51.410124-83.57034M51.996062-84.37502L51.046843-84.68362' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M76.4726-83.97659V-84.97268M76.4726-83.97659L77.4218-84.28518M76.4726-83.97659L77.0586-83.1719M76.4726-83.97659L75.8906-83.1719M76.4726-83.97659L75.5273-84.28518' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M100.9531-91.46877V-92.46487M100.9531-91.46877L101.9023-91.77737M100.9531-91.46877L101.539-90.66409M100.9531-91.46877L100.3672-90.66409M100.9531-91.46877L100.0078-91.77737' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M125.4336-96.56643V-97.5664M125.4336-96.56643L126.3828-96.875M125.4336-96.56643L126.0195-95.76174M125.4336-96.56643L124.8476-95.76174M125.4336-96.56643L124.4882-96.875' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M149.914-79.72659V-80.72268M149.914-79.72659L150.8593-80.03518M149.914-79.72659L150.5-78.9219M149.914-79.72659L149.3281-78.9219M149.914-79.72659L148.9648-80.03518' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M174.3947-85.656275V-86.652368M174.3947-85.656275L175.3397-85.964869M174.3947-85.656275L174.9807-84.85159M174.3947-85.656275L173.8087-84.85159M174.3947-85.656275L173.4457-85.964869' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M198.8747-89.00393V-90.00002M198.8747-89.00393L199.8207-89.31252M198.8747-89.00393L199.4567-88.19924M198.8747-89.00393L198.2887-88.19924M198.8747-89.00393L197.9257-89.31252' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M223.3517-96.6992V-97.6953M223.3517-96.6992L224.3007-97.0078M223.3517-96.6992L223.9377-95.89456M223.3517-96.6992L222.7657-95.89456M223.3517-96.6992L222.4067-97.0078' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M54.73434-83.30081V-84.2969M54.73434-83.30081L55.68356-83.60549M54.73434-83.30081L55.32028-82.49221M54.73434-83.30081L54.14841-82.49221M54.73434-83.30081L53.78512-83.60549' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M79.2148-83.22268V-84.21877M79.2148-83.22268L80.1601-83.53127M79.2148-83.22268L79.8007-82.41799M79.2148-83.22268L78.6289-82.41799M79.2148-83.22268L78.2656-83.53127' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M103.6953-91.48049V-92.47659M103.6953-91.48049L104.6406-91.78909M103.6953-91.48049L104.2812-90.6719M103.6953-91.48049L103.1093-90.6719M103.6953-91.48049L102.7461-91.78909' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M128.1718-96.03909V-97.0352M128.1718-96.03909L129.1211-96.34768M128.1718-96.03909L128.7578-95.2344M128.1718-96.03909L127.5898-95.2344M128.1718-96.03909L127.2265-96.34768' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M152.6527-78.81252V-79.80862M152.6527-78.81252L153.6017-79.12112M152.6527-78.81252L153.2387-78.00393M152.6527-78.81252L152.0667-78.00393M152.6527-78.81252L151.707-79.12112' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M177.1327-85.18362V-86.179712M177.1327-85.18362L178.0817-85.49221M177.1327-85.18362L177.7187-84.37502M177.1327-85.18362L176.5467-84.37502M177.1327-85.18362L176.1877-85.49221' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M201.6137-88.16799V-89.16409M201.6137-88.16799L202.5587-88.47659M201.6137-88.16799L202.1987-87.363306M201.6137-88.16799L201.0277-87.363306M201.6137-88.16799L200.6637-88.47659' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M226.0937-95.75393V-96.75M226.0937-95.75393L227.0387-96.06252M226.0937-95.75393L226.6797-94.94924M226.0937-95.75393L225.5077-94.94924M226.0937-95.75393L225.1447-96.06252' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M57.47262-85.792994V-86.792994M57.47262-85.792994L58.42184-86.101587M57.47262-85.792994L58.05856-84.98831M57.47262-85.792994L56.88669-84.98831M57.47262-85.792994L56.52731-86.101587' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M81.9531-83.89065V-84.88674M81.9531-83.89065L82.9023-84.19534M81.9531-83.89065L82.539-83.08206M81.9531-83.89065L81.3672-83.08206M81.9531-83.89065L81.0078-84.19534' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M106.4336-91.57034V-92.56643M106.4336-91.57034L107.3828-91.87893M106.4336-91.57034L107.0195-90.76174M106.4336-91.57034L105.8476-90.76174M106.4336-91.57034L105.4843-91.87893' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M130.914-96.06252V-97.0586M130.914-96.06252L131.8593-96.37112M130.914-96.06252L131.5-95.25784M130.914-96.06252L130.3281-95.25784M130.914-96.06252L129.9648-96.37112' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M155.3947-80.13674V-81.13284M155.3947-80.13674L156.3397-80.44534M155.3947-80.13674L155.9807-79.33206M155.3947-80.13674L154.8087-79.33206M155.3947-80.13674L154.4457-80.44534' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M179.8707-85.843775V-86.839869M179.8707-85.843775L180.8207-86.152369M179.8707-85.843775L180.4567-85.03909M179.8707-85.843775L179.2887-85.03909M179.8707-85.843775L178.9257-86.152369' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M204.3517-89.13674V-90.13284M204.3517-89.13674L205.3007-89.44534M204.3517-89.13674L204.9377-88.33206M204.3517-89.13674L203.7657-88.33206M204.3517-89.13674L203.4067-89.44534' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M228.8317-101.1836V-102.1797M228.8317-101.1836L229.7817-101.4922M228.8317-101.1836L229.4177-100.3789M228.8317-101.1836L228.2457-100.3789M228.8317-101.1836L227.8867-101.4922' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
 <g transform='matrix(0 -1 1 0 110.87924 55.2144)'>
 <use x='94.027934' y='-101.511696' xlink:href='#g4-68'/>
 <use x='100.177928' y='-101.511696' xlink:href='#g4-117'/>

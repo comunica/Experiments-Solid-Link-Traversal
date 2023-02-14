@@ -23,31 +23,33 @@ aggregate(data$requests, list(data$experiment), median)
 data_cmatch <- data[which(data$experiment=='cmatch-base' | data$experiment=='cmatch-idx' | data$experiment=='cmatch-idx-filt' | data$experiment=='cmatch-ldp' | data$experiment=='cmatch-ldp-idx' | data$experiment=='cmatch-ldp-idx-filt'),]
 #aggregate(data_cmatch$time, list(data_cmatch$experiment), median)
 #kruskal.test(time ~ experiment, data = data_cmatch)
-# p: 1.483e-15
+# p: 3.711e-16
 # => Reject H0, non-equal means
 
 # H0: No statistics difference between (cMatch) type index and LDP
 data_idxvsldp <- data[which(data$experiment=='cmatch-idx' | data$experiment=='cmatch-ldp'),]
 #kruskal.test(requests ~ experiment, data = data_idxvsldp)
-# p: 0.1197 => Accept H0 for number of HTTP requests
+# p: 0.01296 => Reject H0 for number of HTTP requests
 #kruskal.test(time ~ experiment, data = data_idxvsldp)
-# p: 0.5504 => Accept H0 for query exec time
+# p: 0.4052 => Accept H0 for query exec time
 
 # H0: No statistics difference between (cMatch) type index and type index filtered
 data_idxvsidxfilt <- data[which(data$experiment=='cmatch-idx' | data$experiment=='cmatch-idx-filt'),]
 #kruskal.test(requests ~ experiment, data = data_idxvsidxfilt)
-# p: 0.6781 => Accept H0 for number of HTTP requests
+# p: 0.6994 => Accept H0 for number of HTTP requests
 #kruskal.test(time ~ experiment, data = data_idxvsidxfilt)
-# p: 0.8172 => Accept H0 for query exec time
+# p: 0.6896 => Accept H0 for query exec time
 
 # H0: No statistics difference between (cMatch) ldp+idx and idx
 data_idxldpvsidx <- data[which(data$experiment=='cmatch-ldp-idx' | data$experiment=='cmatch-idx'),]
 #aggregate(data_idxldpvsidx$requests, list(data_idxldpvsidx$experiment), median)
 #kruskal.test(requests ~ experiment, data = data_idxldpvsidx)
-# p: 0.02913 => Reject H0 for number of HTTP requests => ldp+idx > idx
+# p: 0.02053 => Reject H0 for number of HTTP requests => ldp+idx > idx
 #kruskal.test(time ~ experiment, data = data_idxldpvsidx)
-# p: 0.5504 => Accept H0 for query exec time
+# p: 0.7146 => Accept H0 for query exec time
 
 # Check correlation between http and time
-#cor.test(data_cmatch[which(data_cmatch$experiment=='cmatch-idx-filt'),]$time, data_cmatch[which(data_cmatch$experiment=='cmatch-idx-filt'),]$requests, method='spearman')
-# p: 0.7621 => No significant correlation!
+data_cmatch_index_filt <- data[which(data$experiment=='cmatch-idx-filt'),]
+#cor.test(data_cmatch_index_filt$time, data_cmatch_index_filt$requests, method='spearman')
+# p: 0.04329 => Significant
+# rho: 0.3211926 => weak
